@@ -41,5 +41,5 @@ Bash
 streamlit run app.py
 The app will automatically open in your default web browser.
 
-Author
+##Author
 Amit Kumar
