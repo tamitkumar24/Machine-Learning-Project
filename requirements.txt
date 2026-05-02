@@ -1,8 +1,4 @@
 streamlit
 joblib
-scikit-learn 
-<<<<<<< HEAD
+scikit-learn
 pandas
-=======
-pandas
->>>>>>> ed2a9bc006bf1d654e1f8e587749a5d3a3159d2b
